@@ -1,7 +1,6 @@
 package br.com.sistemaDeCompra.modelos;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Cartao {
     private String numero;

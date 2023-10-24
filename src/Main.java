@@ -5,6 +5,7 @@ import br.com.sistemaDeCompra.modelos.Produto;
 import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 import java.util.Scanner;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -63,7 +64,7 @@ public class Main {
         int pessoa;
         int  loja;
         String produtoDesejado;
-        ArrayList<Produto> compras = new ArrayList<Produto>();
+        List<Produto> compras = new ArrayList <Produto>();
 
         System.out.println(clientes);
         System.out.println("Escolha a pessoa para realizar a compra [Informar posicao(1,2)]: ");

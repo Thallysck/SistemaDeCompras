@@ -59,7 +59,7 @@ public class Pessoa {
         return this.cartao.getLimite();
     }
 
-    public ArrayList extratoCompras(){
+    public List<Produto> extratoCompras(){
         return this.cartao.getCompras();
     }
 
