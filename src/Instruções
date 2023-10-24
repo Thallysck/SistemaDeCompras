@@ -1,0 +1,6 @@
+
+- Fazer menu de realizar compras
+- Utilizar lista para armazenamento de compras e valores
+- Se digitar 0, sair e mostrar as compras realizadas, os valores e o saldo final do cartão
+- Se tentar uma compra maior que o limite disponível, encerrar informando a mensagem "Saldo insuficiente" e mostrar as compras realizadas, os valores e o saldo final do cartão
+
